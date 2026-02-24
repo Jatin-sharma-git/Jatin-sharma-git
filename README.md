@@ -31,18 +31,16 @@ DevOps         Git  •  GitHub  •  PyInstaller  •  Docker
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 What I've Built
 
-| Project | What it does |
-|---------|-------------|
-| 📬 [India AP Production Tracker](https://github.com/Jatin-sharma-git/Python_automations/tree/main/India%20AP%20Production%20Tracker%20Automation) | AI-powered email tracker — uses Claude to extract invoice data from Outlook, cross-references with aging/payment data |
-| 🤖 [Automation of PCard Transactions](https://github.com/Jatin-sharma-git/Python_automations/tree/main/Automation%20of%20Pcard%20Transactions) | Playwright browser bot + Claude API for validating PCard receipts and GL codes in WORKS |
-| 📧 [DocuMail Processor](https://github.com/Jatin-sharma-git/Python_automations/tree/main/DocuMail%20Pro) | Processes Outlook emails — extracts PDFs, converts email body to PDF, merges them into single documents |
-| 💶 [Ireland Payment Committing Tool](https://github.com/Jatin-sharma-git/Python_automations/tree/main/Ireland%20Payment%20Committing%20Tool) | Smart payment commit/reject engine based on funding availability and vendor priorities |
-| 💌 [CorpCard Expense Reminder](https://github.com/Jatin-sharma-git/Python_automations/tree/main/Individual%20MC%20Pending%20Expenses%20Notification%20Reminder) | Generates personalized Outlook reminders for pending corporate card expenses by region/status |
-| 🔁 [Duplicate Report Automation](https://github.com/Jatin-sharma-git/Python_automations/tree/main/Automation%20on%20Duplicate%20Reports) | 5-rule fuzzy matching engine to detect duplicate invoices across categories |
+- 📬 **AI Email Tracker** — LLM-powered tool that extracts invoice data from emails and cross-references with financial records
+- 🤖 **Browser Automation Bots** — Playwright + AI agents that navigate web portals and validate transactions autonomously
+- 📧 **Email Processing Engines** — Outlook automation for parsing, merging PDFs, and bulk email generation
+- 💶 **Smart Decision Tools** — Rule-based engines for payment commit/reject workflows
+- 🔁 **Fuzzy Matching Systems** — Multi-rule duplicate detection across large datasets
+- ✂️ **Document Processing** — PDF splitting, DSC removal, Excel-to-Parquet converters, and OCR pipelines
 
-> 📂 **[View all 14 automation projects →](https://github.com/Jatin-sharma-git/Python_automations)**
+> 14+ automation tools built and deployed across finance, operations, and compliance workflows.
 
 ---
 
@@ -68,7 +66,6 @@ I believe the best tools are the ones that disappear into the background — the
 ### 📫 Connect
 
 - **GitHub** — You're already here!
-- **Projects** — [Python Automations Repo](https://github.com/Jatin-sharma-git/Python_automations)
 
 ---
 
